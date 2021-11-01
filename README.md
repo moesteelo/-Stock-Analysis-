@@ -8,11 +8,16 @@ Comparing 2017- and 2018-year stocks we can determine that 2017 had a better ove
 
 
 ![image](https://user-images.githubusercontent.com/91576834/139565099-83479e6f-3baa-4b4b-b674-244021e45383.png) ![image](https://user-images.githubusercontent.com/91576834/139565103-1fbc052b-e821-4b22-aa8f-ec2f94f7143f.png)
+![image](https://user-images.githubusercontent.com/91576834/139606250-7566e1c8-2238-41f0-9683-35790b37de0e.png)
+
+
 
 
 The stocks investment for the year 2018 had a lot of negative return on investment. 10/12 of the stocks all yield substantial negative returns and only two had a positive return of investment. The refactored code for the year 2018 did however run incredibly faster than its original code. The code ran at 0.22 seconds compared to 1.2 seconds of its original code. 
    
    ![image](https://user-images.githubusercontent.com/91576834/139565125-19f1ea21-39b6-455e-9cc4-1e6e0ac6c621.png). ![image](https://user-images.githubusercontent.com/91576834/139565130-415097af-15c2-4f9a-bfd4-cc8342344631.png)
+   ![image](https://user-images.githubusercontent.com/91576834/139606268-73a1cfa5-4e6a-45e0-89c4-f02a89193a90.png)
+
    
 ## Summary: In a summary statement, address the following questions.
 ### 1. What are the advantages or disadvantages of refactoring code? 
